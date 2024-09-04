@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-HoteisApplication<hoteis>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.hoteis.hoteis.HoteisApplication",
+            "projectName": "hoteis",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
